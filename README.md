@@ -1,3 +1,5 @@
+![](https://github.com/ujjwaltyagi355/ujjwaltyagi355/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Ujjwal...</h1>
 <h3 align="center">Building My Path With Code.</h3>
 
