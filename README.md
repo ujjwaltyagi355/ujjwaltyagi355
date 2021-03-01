@@ -86,9 +86,13 @@
   </a>
 </p>
 </details>
-<br>
 
 #
+
+<br />
+<br />
+
+
 <p align="center">
   <a href="https://archiveprogram.github.com/">
     <img alt="Github Arctic Vault Contributor" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/arctic.gif" width="100px" height="100px">
