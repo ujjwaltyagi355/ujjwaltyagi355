@@ -6,7 +6,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Developemtn && Machine Learning**
+- 🔭 I’m currently working on **Web Development && Machine Learning**
 - 🌱 I’m currently learning **Web Developement and Competitive Programming**
 - 👯 I’m looking to collaborate on **Web Developement Projects**
 - 🤔 I’m looking for help with **Internships**
@@ -14,10 +14,8 @@
 - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **I love to write in my free time..✍***
 - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House : **Gryffindor** <img width="20px" height="20px" src="https://github.com/ujjwaltyagi355/ujjwaltyagi355/blob/main/Gryffindor.png">
-
 <br />
 <br />
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com//ujjwaltyagi355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="/ujjwaltyagi355" height="30" width="40"/></a>
