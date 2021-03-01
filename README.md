@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwaltyagi355&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwaltyagi355" /> </p>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ujjwaltyagi355/ujjwaltyagi355/blob/main/image.gif">
 </a>
 
 - 🔭 I’m currently working on **Web Development && Machine Learning**
@@ -15,7 +15,7 @@
 - 💬 Ask me about Anything [here](mailto:ujjwaltyagi355@gmail.com)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **I love to write in my free time..✍***
-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House : **Gryffindor** <img width="20px" height="20px" src="https://github.com/ujjwaltyagi355/ujjwaltyagi355/blob/main/Gryffindor.png">
+- <img src="https://github.com/ujjwaltyagi355/ujjwaltyagi355/blob/main/house.png" width="20px" height="20px"/>  Hogwarts House : **Gryffindor** <img width="20px" height="20px" src="https://github.com/ujjwaltyagi355/ujjwaltyagi355/blob/main/Gryffindor.png">
 <br />
 <br />
 <h2 align="center">Connect with me:</h2>
