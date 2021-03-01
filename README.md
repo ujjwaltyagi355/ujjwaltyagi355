@@ -15,11 +15,6 @@
 - ⚡ Fun fact : **I love to write in my free time..✍***
 - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House : **Gryffindor** <img width="20px" height="20px" src="https://github.com/ujjwaltyagi355/ujjwaltyagi355/blob/main/Gryffindor.png">
 
-<br />
-<br />
-<br />
-<br />
-<br />
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com//ujjwaltyagi355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="/ujjwaltyagi355" height="30" width="40"/></a>
@@ -28,10 +23,6 @@
 <a href="https://instagram.com//the_pursuit_begins/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="/the_pursuit_begins/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ujjwaltyagi355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ujjwaltyagi355" height="30" width="40" /></a>
 </p>
-<br/>
-<br/>
-<br/>
-
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
 <h4>Programming languages:</h4>
