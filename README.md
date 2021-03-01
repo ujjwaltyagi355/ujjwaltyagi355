@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ujjwaltyagi355@gmail.com**
 
-- 📄 Know about my experiences [My Resume](<a href="https://drive.google.com/file/d/1Pq0Jx5Fckts7miSlqNVE-dfohv0ZTNLM/view?usp=sharing"></a>)
-
 - ⚡ Fun fact **I love to Write✍🏻.**
 
 <h3 align="left">Connect with me:</h3>
