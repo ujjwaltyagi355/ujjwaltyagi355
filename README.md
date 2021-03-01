@@ -95,7 +95,7 @@
   </a>
 </p>
 <br />
-<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 
 #
 
